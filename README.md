@@ -1,4 +1,4 @@
-# MiniCssExtractPluginErrorRepro
+# AngularPostCssMiniCssExtractPluginErrorRepro
 
 This repo is meant to provide a reproduction for an error that Angular CLI and MiniCssExtractPlugin throw when building with postcss-loader and Tailwind CSS.
 
